@@ -189,7 +189,6 @@ by @KathyBarabash
   <hr>
 </details>
 
-Want to keep learning? Feel free to [check out our other courses](https://lab.github.com/courses).
 
 <hr>
 <h3 align="center">I won't respond to this issue, just close it when you are done!</h3>
