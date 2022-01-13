@@ -1,29 +1,8 @@
 ## GitHub Markdown Reference
 
-![img-name](https://images.unsplash.com/photo-1590698933947-a202b069a861?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80)
+by @KathyBarabash
 
-## Nice work
-
-Congratulations @KathyBarabash, you've completed this course!
-
-![congratulations](https://octodex.github.com/images/welcometocat.png)
-
-## What went well
-
-During this course you successfully:
-
-- Added a checklist to an issue comment
-- Enabled GitHub Pages on your repository
-- Committed changes to your webpage by:
-    - Adding headers to the `01-name.md` file
-    - Including an image in the `02-image.md` file
-    - Creating links to other websites in the `03-links.md` file
-    - Adding your accomplishments to the `04-lists.md` file
-    - Using emphasis like **bold** and _italics_ in the `05-emphasis.md` file
-
-## What's next?
-
-Now that you have mastered the basics of Markdown @KathyBarabash, here's some quick information about some of the other cool features we didn't cover.
+![photo](https://images.unsplash.com/photo-1590698933947-a202b069a861?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=735&q=80)
 
 ### More Links in Markdown
 
